@@ -6,6 +6,14 @@ call center performance for a telecom company across 12 months (Jan–Dec 2025).
 The dashboard helps operations managers identify SLA breaches, CSAT gaps, 
 agent underperformance, and systemic training issues.
 
+## Dashboard Screenshots
+
+### Page 1 — Operations Overview
+![Operations Overview](page1_operations_overview.png)
+
+### Page 2 — Agent Performance
+![Agent Performance](page2_agent_performance.png)
+
 ## Business Problem
 The call center was facing declining CSAT scores, high SLA breach rates, and 
 no centralized visibility into agent-level performance. Management needed a 
