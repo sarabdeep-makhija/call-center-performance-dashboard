@@ -71,4 +71,4 @@ operations. Includes 6,000 call records across 20 agents, 4 teams,
 ## Author
 **Sarabdeep Singh Makhija**  
 Data Analyst | Power BI | Excel | SQL | Python  
-[LinkedIn]((https://www.linkedin.com/in/sarabdeepmakhija/))
+[LinkedIn](https://www.linkedin.com/in/sarabdeepmakhija/)
